@@ -1,0 +1,8 @@
+* Purpose
+
+Validate font-locking and tooling support for ES6.
+
+* Validation
+
+- js2-mode
+- yasnippets for arrow syntax, string interpolation, generators, etc.
